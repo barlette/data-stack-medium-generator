@@ -1,0 +1,9 @@
+# SAM CACHE FILES
+.aws-sam/
+
+# PYTHON VIRTUAL ENVIRONMENT
+.venv/
+
+# ENV FILES
+.env
+env.json

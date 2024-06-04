@@ -1,0 +1,29 @@
+{
+  "clients": [
+    {
+      "name": "Feedfire",
+      "performance": 80,
+      "transactions-per-minute": 5
+    },
+    {
+      "name": "Wordtune",
+      "performance": 85,
+      "transactions-per-minute": 10
+    },
+    {
+      "name": "Edgepulse",
+      "performance": 90,
+      "transactions-per-minute": 15
+    },
+    {
+      "name": "Dabtype",
+      "performance": 95,
+      "transactions-per-minute": 25
+    },
+    {
+      "name": "Rhyzio",
+      "performance": 100,
+      "transactions-per-minute": 50
+    }
+  ]
+}
