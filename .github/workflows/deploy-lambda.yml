@@ -35,8 +35,7 @@ jobs:
 
       - name: Zip Lambda function code
         run: |
-          cd log-generator/
-          zip -r function.zip .
+          zip -r function.zip log-generator/
 
       - name: Update Lambda function code
         run: |
